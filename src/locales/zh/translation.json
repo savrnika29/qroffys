@@ -1,0 +1,24 @@
+{
+  "Welcome to ": "欢迎来到 ",
+  "Username": "用户名",
+  "Password": "密码",
+  "Log In": "登录",
+  "Forgot password?": "忘记密码？",
+  "Don't have an account?": "没有账户？",
+  "Sign Up": "注册",
+  "register": {
+    "title": "注册",
+    "name": "姓名",
+    "email": "电子邮件",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "submit": "注册",
+    "passwordMismatch": "密码不匹配"
+  },
+  "login": {
+    "title": "登录",
+    "email": "电子邮件",
+    "password": "密码",
+    "button": "登录"
+  }
+}

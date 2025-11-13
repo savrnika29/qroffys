@@ -1,0 +1,24 @@
+{
+  "Welcome to ": "Welcome to ",
+  "Username": "Username",
+  "Password": "Password",
+  "Log In": "Log In",
+  "Forgot password?": "Forgot password?",
+  "Don't have an account?": "Don't have an account?",
+  "Sign Up": "Sign Up",
+  "register": {
+    "title": "Register",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Register",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "button": "Login"
+  }
+}

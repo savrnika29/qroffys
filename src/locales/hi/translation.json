@@ -1,0 +1,24 @@
+{
+  "Welcome to ": " आपका स्वागत है ",
+  "Username": "उपयोगकर्ता नाम",
+  "Password": "पासवर्ड",
+  "Log In": "लॉग इन करें",
+  "Forgot password?": "पासवर्ड भूल गए?",
+  "Don't have an account?": "कोई खाता नहीं है?",
+  "Sign Up": "साइन अप करें",
+  "register": {
+    "title": "पंजीकरण करें",
+    "name": "नाम",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "submit": "पंजीकरण करें",
+    "passwordMismatch": "पासवर्ड मेल नहीं खा रहे हैं"
+  },
+  "login": {
+    "title": "लॉगिन करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "button": "लॉगिन करें"
+  }
+}

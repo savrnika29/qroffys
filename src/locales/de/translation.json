@@ -1,0 +1,17 @@
+{
+  "register": {
+    "title": "Registrieren",
+    "name": "Name",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "submit": "Registrieren",
+    "passwordMismatch": "Passwörter stimmen nicht überein"
+  },
+  "login": {
+    "title": "Anmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "button": "Anmelden"
+  }
+}
